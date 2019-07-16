@@ -1,5 +1,5 @@
-# Technology-Blog
-Technology Blog 를 만들기 위한 Repository 입니다.
+# Toy Project
+Toy Project 를 만들기 위한 Repository 입니다.
 
 ## 목적
 개인의 성장 혹은 누군가에게 도움이 되는 기술관리 사이트를 만들고 싶습니다.

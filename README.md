@@ -19,3 +19,6 @@ Toy Project 를 만들기 위한 Repository 입니다.
     - jira(https://developer.atlassian.com/cloud/)
   - 연차/회의를 확인할 수 있는 기능
 
+### 아이디어!
+- 막써요 막써(제목)
+  - 나중에 수정할게요(설명)

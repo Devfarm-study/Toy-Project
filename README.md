@@ -30,7 +30,9 @@ Toy Project 를 만들기 위한 Repository 입니다.
   - 모바일을 주 타겟으로 
   - 캘린더 + 업무이슈 자동 반영(지라/마이다스인 사내 행사 등) 
   - 각 직무 별로 커스터마이징 하도록 (직무별로 필요한 기능과 UI 등이 다를 것으로 생각됨) 
-
+- 출퇴근 도우미
+  - 셔틀버스 알람, 회사 근처 정류장 버스 노선/도착시간 확인, 고속도로 정체 현황 확인
+  - 단, 회사 주변 반경 ?km이내로 제한
 
 ## Github Markdown 가이드
 - https://guides.github.com/features/mastering-markdown/

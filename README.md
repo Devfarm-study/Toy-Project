@@ -7,8 +7,8 @@ Toy Project 를 만들기 위한 Repository 입니다.
 ## Github Markdown 가이드
 - https://guides.github.com/features/mastering-markdown/
 
-## 일정
-- 1차: 2019년 07월 15일
+## 1차 회의
+- 2019년 07월 15일
   - 내용: 우리가 하고자 하는 토이 프로젝트가 무엇인가를 확인하는 자리!
 
 첫번째 의견
@@ -43,8 +43,10 @@ Toy Project 를 만들기 위한 Repository 입니다.
   - 여러개의 스팟을 최적으로 갈 수 있도록 함.
   - 전화 바로 걸기 !
   
-<hr> 
-- 2차: 2019년 07월 22일 <br>
+<hr> </hr>
+
+## 2차 회의
+- 2019년 07월 22일 
   - 내용: 아이디어 선정 / 용구 영입
   - 다음회의: 
     - 동일 서비스 벤치마킹 / etc...

@@ -33,6 +33,8 @@ Toy Project 를 만들기 위한 Repository 입니다.
 - 출퇴근 도우미
   - 셔틀버스 알람, 회사 근처 정류장 버스 노선/도착시간 확인, 고속도로 정체 현황 확인
   - 단, 회사 주변 반경 ?km이내로 제한
+- 여행 -> 일정 관리 캘린더랑 비스무리
+  - 여행일정을 그룹핑해서 공유할 수 있는 앱/사이트 
 
 ## Github Markdown 가이드
 - https://guides.github.com/features/mastering-markdown/

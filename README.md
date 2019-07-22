@@ -35,6 +35,12 @@ Toy Project 를 만들기 위한 Repository 입니다.
   - 단, 회사 주변 반경 ?km이내로 제한
 - 여행 -> 일정 관리 캘린더랑 비스무리
   - 여행일정을 그룹핑해서 공유할 수 있는 앱/사이트 
+- 지원서 앱
+  - 지원서 사이트를 앱으로 구현
+  - 지원 / 지원서 확인 / 마이페이지 접속
+- 봉사활동 최적의 맵 찾기
+  - 여러개의 스팟을 최적으로 갈 수 있도록 함.
+  - 전화 바로 걸기 !
 
 ## Github Markdown 가이드
 - https://guides.github.com/features/mastering-markdown/

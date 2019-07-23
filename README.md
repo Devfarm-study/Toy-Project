@@ -58,3 +58,5 @@ Toy Project 를 만들기 위한 Repository 입니다.
 - 트렌드 조사
   - 참고 URL(https://trends.google.com/trends/explore?cat=31&q=Android,IOS)
 
+- 기능 추가 URL
+  - https://docs.google.com/document/d/1UaLHMqbvDcNyF7Yl6IQ6Vxvjntgl1reYQqrMe1cemJ4/edit?usp=sharing

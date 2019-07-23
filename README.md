@@ -54,3 +54,7 @@ Toy Project 를 만들기 위한 Repository 입니다.
 ## 주제 선정
 - 여행 일정 관리 서비스
   - 여행 일정을 공유하고 추천한다.
+  
+- 트렌드 조사
+  - 참고 URL(https://trends.google.com/trends/explore?cat=31&q=Android,IOS)
+

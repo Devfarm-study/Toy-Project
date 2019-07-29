@@ -72,8 +72,13 @@ Toy Project 를 만들기 위한 Repository 입니다.
 2. 기획 방향 (필요기능 확인)
 3. 이름 (앱 or 웹)
 4. 정보를 어떻게 저장하면서 진행할 것인지에 대한 대책
-> 소스 코드 저장소, DB 저장소, 문서 저장소 에 대한 협의 필요
-> private git 은 최대 3명까지 콜라보레이터로 참여 가능
-> 문서 관리를 git 으로 하기 어려움
+  - 소스 코드 저장소, DB 저장소, 문서 저장소 에 대한 협의 필요
+  - private git 은 최대 3명까지 콜라보레이터로 참여 가능
+  - 문서 관리를 git 으로 하기 어려움
+2019년 7월 29일
 
+<hr> </hr>
+
+## 회의록
+  - https://docs.google.com/spreadsheets/d/1fb4pfqDpTvbPfY1wAAbyWWKSBFyOizKJASgQamem8Hs/edit#gid=0
 

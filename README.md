@@ -82,6 +82,9 @@ Toy Project 를 만들기 위한 Repository 입니다.
 ## 회의록
   - https://docs.google.com/spreadsheets/d/1fb4pfqDpTvbPfY1wAAbyWWKSBFyOizKJASgQamem8Hs/edit#gid=0
 
-## 내가 생각하는 일정짜기 공유란?
+## 내가 생각하는 일정짜기 공유란? - 4(08/07)
   - https://docs.google.com/spreadsheets/d/1YaHQql8ml93oaIDo_ZmYmpmtO7xEDnSuqlUD7Ef2ENg/edit#gid=0
   
+## 5차 회의(08/13)
+  - 5차 회의에서 진행할 내용을 서술하는 양식
+  - https://docs.google.com/spreadsheets/d/1QZilox1QR6_Vl7k1axMPWrn_3W4HQQD5p4lL07jHp_Q/edit#gid=0

@@ -88,3 +88,7 @@ Toy Project 를 만들기 위한 Repository 입니다.
 ## 5차 회의(08/13)
   - 5차 회의에서 진행할 내용을 서술하는 양식
   - https://docs.google.com/spreadsheets/d/1QZilox1QR6_Vl7k1axMPWrn_3W4HQQD5p4lL07jHp_Q/edit#gid=0
+
+## 6차 회의(08/20)
+  - 6차 회의에서 진행할 내용을 서술하는 양식
+  - https://docs.google.com/spreadsheets/d/1zvz4EPwJ3YMFZZkNg_Wk3fmj57LaOmK0xCTzHLtLHeI/edit#gid=0

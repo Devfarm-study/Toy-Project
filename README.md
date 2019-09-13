@@ -96,3 +96,6 @@ Toy Project 를 만들기 위한 Repository 입니다.
 ## 7차 회의(09/03)
   - 7차 회의에서 진행할 내용을 서술하는 양식
   - https://docs.google.com/spreadsheets/d/1wwGvluZD_nQ9gJHD8-AWAitXWGbCIRdEBsLyn1oALRQ/edit#gid=0
+  
+## 8차 회의(09/10)
+  - https://docs.google.com/spreadsheets/d/179KMgNup7RYLSgdgTDSsAjhkfjozLMprDLW0n6r6lMo/edit#gid=0

@@ -99,3 +99,6 @@ Toy Project 를 만들기 위한 Repository 입니다.
   
 ## 8차 회의(09/10)
   - https://docs.google.com/spreadsheets/d/179KMgNup7RYLSgdgTDSsAjhkfjozLMprDLW0n6r6lMo/edit#gid=0
+
+## 9, 10차 회의(09/17, 09/24)
+  - https://docs.google.com/spreadsheets/d/1eRBo93Goeh1I8SPhjDpORC9cESZAIcJH5aNaYScBZgk/edit#gid=797719959
